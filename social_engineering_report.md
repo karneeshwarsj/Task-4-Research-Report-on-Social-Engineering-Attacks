@@ -55,18 +55,6 @@ Attackers send messages that appear to originate from legitimate organizations s
 * Malware infections.
 * Reputational damage.
 
-### Case Study: Google and Facebook Vendor Fraud (2013–2015)
-
-A cybercriminal impersonated a legitimate hardware supplier and sent fraudulent invoices to employees at Google and Facebook. The companies collectively transferred more than **$100 million** before the scheme was uncovered.
-
-### Preventive Measures
-
-* Conduct regular security awareness training.
-* Verify suspicious emails through alternative communication channels.
-* Implement email filtering solutions.
-* Enable Multi-Factor Authentication (MFA).
-* Educate employees about identifying phishing indicators.
-
 ---
 
 ## 3.2 Pretexting
@@ -86,17 +74,6 @@ Attackers pose as trusted individuals such as IT support staff, law enforcement 
 * Identity theft.
 * Financial fraud.
 
-### Case Study: Hewlett-Packard Pretexting Scandal (2006)
-
-Investigators hired by Hewlett-Packard used false identities to obtain private telephone records of board members and journalists. The incident highlighted the ethical and legal concerns associated with pretexting techniques.
-
-### Preventive Measures
-
-* Verify identities before sharing information.
-* Establish strict information disclosure procedures.
-* Limit access based on job responsibilities.
-* Provide employee training on social engineering tactics.
-* Encourage staff to report suspicious requests.
 
 ---
 
